@@ -2,8 +2,8 @@
 .app form input{
     margin: 20px;
     padding: 10px 20px;
-    border: 2px solid gray;
-    background-color: white;
+    border: 6px solid gray;
+    background-color: gray;
     transition: .3s;
 }
 
