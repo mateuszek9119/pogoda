@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pogoda/static/css/main.a23e8f4d.css",
+    "main.js": "/pogoda/static/js/main.c85ed6b9.js",
+    "index.html": "/pogoda/index.html",
+    "main.a23e8f4d.css.map": "/pogoda/static/css/main.a23e8f4d.css.map",
+    "main.c85ed6b9.js.map": "/pogoda/static/js/main.c85ed6b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23e8f4d.css",
+    "static/js/main.c85ed6b9.js"
+  ]
+}
